@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\bin\Debug\netcoreapp3.0\05. Builder.exe
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\bin\Debug\netcoreapp3.0\05. Builder.deps.json
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\bin\Debug\netcoreapp3.0\05. Builder.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\bin\Debug\netcoreapp3.0\05. Builder.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\bin\Debug\netcoreapp3.0\05. Builder.dll
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\bin\Debug\netcoreapp3.0\05. Builder.pdb
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\obj\Debug\netcoreapp3.0\05. Builder.csprojAssemblyReference.cache
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\obj\Debug\netcoreapp3.0\05. Builder.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\obj\Debug\netcoreapp3.0\05. Builder.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\obj\Debug\netcoreapp3.0\05. Builder.dll
+D:\Program Files\GitHub\High Quality Code\CreationalPatterns\CreationalPatterns\05. Builder\obj\Debug\netcoreapp3.0\05. Builder.pdb
