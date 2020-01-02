@@ -1,0 +1,11 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\bin\Debug\netcoreapp3.0\06Bridge.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\bin\Debug\netcoreapp3.0\06Bridge.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\bin\Debug\netcoreapp3.0\06Bridge.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\bin\Debug\netcoreapp3.0\06Bridge.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\bin\Debug\netcoreapp3.0\06Bridge.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\bin\Debug\netcoreapp3.0\06Bridge.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\obj\Debug\netcoreapp3.0\06Bridge.csprojAssemblyReference.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\obj\Debug\netcoreapp3.0\06Bridge.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\obj\Debug\netcoreapp3.0\06Bridge.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\obj\Debug\netcoreapp3.0\06Bridge.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\06Bridge\obj\Debug\netcoreapp3.0\06Bridge.pdb

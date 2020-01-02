@@ -1,0 +1,11 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\bin\Debug\netcoreapp3.0\07Flyweight.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\bin\Debug\netcoreapp3.0\07Flyweight.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\bin\Debug\netcoreapp3.0\07Flyweight.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\bin\Debug\netcoreapp3.0\07Flyweight.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\bin\Debug\netcoreapp3.0\07Flyweight.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\bin\Debug\netcoreapp3.0\07Flyweight.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\obj\Debug\netcoreapp3.0\07Flyweight.csprojAssemblyReference.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\obj\Debug\netcoreapp3.0\07Flyweight.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\obj\Debug\netcoreapp3.0\07Flyweight.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\obj\Debug\netcoreapp3.0\07Flyweight.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\07Flyweight\obj\Debug\netcoreapp3.0\07Flyweight.pdb

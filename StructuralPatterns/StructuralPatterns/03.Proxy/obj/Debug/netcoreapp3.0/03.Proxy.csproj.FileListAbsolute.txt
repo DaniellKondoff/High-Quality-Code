@@ -1,0 +1,10 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\bin\Debug\netcoreapp3.0\03.Proxy.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\bin\Debug\netcoreapp3.0\03.Proxy.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\bin\Debug\netcoreapp3.0\03.Proxy.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\bin\Debug\netcoreapp3.0\03.Proxy.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\bin\Debug\netcoreapp3.0\03.Proxy.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\bin\Debug\netcoreapp3.0\03.Proxy.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\obj\Debug\netcoreapp3.0\03.Proxy.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\obj\Debug\netcoreapp3.0\03.Proxy.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\obj\Debug\netcoreapp3.0\03.Proxy.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\03.Proxy\obj\Debug\netcoreapp3.0\03.Proxy.pdb

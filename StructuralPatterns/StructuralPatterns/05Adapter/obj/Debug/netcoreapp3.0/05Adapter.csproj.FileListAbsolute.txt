@@ -1,0 +1,11 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\bin\Debug\netcoreapp3.0\05Adapter.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\bin\Debug\netcoreapp3.0\05Adapter.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\bin\Debug\netcoreapp3.0\05Adapter.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\bin\Debug\netcoreapp3.0\05Adapter.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\bin\Debug\netcoreapp3.0\05Adapter.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\bin\Debug\netcoreapp3.0\05Adapter.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\obj\Debug\netcoreapp3.0\05Adapter.csprojAssemblyReference.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\obj\Debug\netcoreapp3.0\05Adapter.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\obj\Debug\netcoreapp3.0\05Adapter.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\obj\Debug\netcoreapp3.0\05Adapter.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\05Adapter\obj\Debug\netcoreapp3.0\05Adapter.pdb

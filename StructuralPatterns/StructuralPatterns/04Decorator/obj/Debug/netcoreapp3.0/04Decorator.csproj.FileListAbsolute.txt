@@ -1,0 +1,11 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\bin\Debug\netcoreapp3.0\04Decorator.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\bin\Debug\netcoreapp3.0\04Decorator.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\bin\Debug\netcoreapp3.0\04Decorator.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\bin\Debug\netcoreapp3.0\04Decorator.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\bin\Debug\netcoreapp3.0\04Decorator.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\bin\Debug\netcoreapp3.0\04Decorator.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\obj\Debug\netcoreapp3.0\04Decorator.csprojAssemblyReference.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\obj\Debug\netcoreapp3.0\04Decorator.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\obj\Debug\netcoreapp3.0\04Decorator.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\obj\Debug\netcoreapp3.0\04Decorator.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\04Decorator\obj\Debug\netcoreapp3.0\04Decorator.pdb

@@ -1,0 +1,11 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\bin\Debug\netcoreapp3.0\02Composite.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\bin\Debug\netcoreapp3.0\02Composite.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\bin\Debug\netcoreapp3.0\02Composite.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\bin\Debug\netcoreapp3.0\02Composite.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\bin\Debug\netcoreapp3.0\02Composite.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\bin\Debug\netcoreapp3.0\02Composite.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\obj\Debug\netcoreapp3.0\02Composite.csprojAssemblyReference.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\obj\Debug\netcoreapp3.0\02Composite.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\obj\Debug\netcoreapp3.0\02Composite.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\obj\Debug\netcoreapp3.0\02Composite.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\02Composite\obj\Debug\netcoreapp3.0\02Composite.pdb

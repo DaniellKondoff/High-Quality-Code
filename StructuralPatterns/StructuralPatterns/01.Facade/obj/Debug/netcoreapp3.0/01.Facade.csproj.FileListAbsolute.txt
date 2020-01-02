@@ -1,0 +1,10 @@
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\bin\Debug\netcoreapp3.0\01.Facade.exe
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\bin\Debug\netcoreapp3.0\01.Facade.deps.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\bin\Debug\netcoreapp3.0\01.Facade.runtimeconfig.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\bin\Debug\netcoreapp3.0\01.Facade.runtimeconfig.dev.json
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\bin\Debug\netcoreapp3.0\01.Facade.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\bin\Debug\netcoreapp3.0\01.Facade.pdb
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\obj\Debug\netcoreapp3.0\01.Facade.AssemblyInfoInputs.cache
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\obj\Debug\netcoreapp3.0\01.Facade.AssemblyInfo.cs
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\obj\Debug\netcoreapp3.0\01.Facade.dll
+C:\MyCode\HQC\StructuralPatterns\StructuralPatterns\01.Facade\obj\Debug\netcoreapp3.0\01.Facade.pdb
