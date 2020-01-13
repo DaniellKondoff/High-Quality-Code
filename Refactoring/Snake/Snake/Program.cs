@@ -5,25 +5,10 @@ using System.Threading;
 
 namespace Snake
 {
-    struct Position
-    {
-        public int row;
-        public int col;
-        public Position(int row, int col)
-        {
-            this.row = row;
-            this.col = col;
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
-            byte right = 0;
-            byte left = 1;
-            byte down = 2;
-            byte up = 3;
             int lastFoodTime = 0;
             int foodDissapearTime = 8000;
             int negativePoints = 0;
@@ -36,7 +21,7 @@ namespace Snake
                 new Position(-1, 0), // up
             };
             double sleepTime = 100;
-            int direction = right;
+            Direction direction = Direction.Right;
             Random randomNumbersGenerator = new Random();
             Console.BufferHeight = Console.WindowHeight;
             lastFoodTime = Environment.TickCount;
@@ -89,24 +74,24 @@ namespace Snake
                     ConsoleKeyInfo userInput = Console.ReadKey();
                     if (userInput.Key == ConsoleKey.LeftArrow)
                     {
-                        if (direction != right) direction = left;
+                        if (direction != Direction.Right) direction = Direction.Left;
                     }
                     if (userInput.Key == ConsoleKey.RightArrow)
                     {
-                        if (direction != left) direction = right;
+                        if (direction != Direction.Left) direction = Direction.Right;
                     }
                     if (userInput.Key == ConsoleKey.UpArrow)
                     {
-                        if (direction != down) direction = up;
+                        if (direction != Direction.Down) direction = Direction.Up;
                     }
                     if (userInput.Key == ConsoleKey.DownArrow)
                     {
-                        if (direction != up) direction = down;
+                        if (direction != Direction.Up) direction = Direction.Down;
                     }
                 }
 
                 Position snakeHead = snakeElements.Last();
-                Position nextDirection = directions[direction];
+                Position nextDirection = directions[(int)direction];
 
                 Position snakeNewHead = new Position(snakeHead.row + nextDirection.row,
                     snakeHead.col + nextDirection.col);
@@ -135,10 +120,10 @@ namespace Snake
                 snakeElements.Enqueue(snakeNewHead);
                 Console.SetCursorPosition(snakeNewHead.col, snakeNewHead.row);
                 Console.ForegroundColor = ConsoleColor.Gray;
-                if (direction == right) Console.Write(">");
-                if (direction == left) Console.Write("<");
-                if (direction == up) Console.Write("^");
-                if (direction == down) Console.Write("v");
+                if (direction == Direction.Right) Console.Write(">");
+                if (direction == Direction.Left) Console.Write("<");
+                if (direction == Direction.Up) Console.Write("^");
+                if (direction == Direction.Down) Console.Write("v");
 
 
                 if (snakeNewHead.col == food.col && snakeNewHead.row == food.row)
