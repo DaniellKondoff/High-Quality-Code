@@ -7,26 +7,20 @@ namespace Snake
 {
     class Program
     {
-        static void Main(string[] args)
+        private static ICollection<Position> CreatePositions()
         {
-            int lastFoodTime = 0;
-            int foodDissapearTime = 8000;
-            int negativePoints = 0;
-
-            Position[] directions = new Position[]
+            return new Position[]
             {
                 new Position(0, 1), // right
                 new Position(0, -1), // left
                 new Position(1, 0), // down
                 new Position(-1, 0), // up
             };
-            double sleepTime = 100;
-            Direction direction = Direction.Right;
-            Random randomNumbersGenerator = new Random();
-            Console.BufferHeight = Console.WindowHeight;
-            lastFoodTime = Environment.TickCount;
+        }
 
-            List<Position> obstacles = new List<Position>()
+        private static ICollection<Position> CreateObstacles()
+        {
+            var obstacles =  new List<Position>()
             {
                 new Position(12, 12),
                 new Position(14, 20),
@@ -34,6 +28,7 @@ namespace Snake
                 new Position(19, 19),
                 new Position(6, 9),
             };
+
             foreach (Position obstacle in obstacles)
             {
                 Console.ForegroundColor = ConsoleColor.Cyan;
@@ -41,11 +36,34 @@ namespace Snake
                 Console.Write("=");
             }
 
+            return obstacles;
+        }
+
+        private static Queue<Position> CreateSnake()
+        {
             Queue<Position> snakeElements = new Queue<Position>();
             for (int i = 0; i <= 5; i++)
             {
                 snakeElements.Enqueue(new Position(0, i));
             }
+
+            return snakeElements;
+        }
+
+        static void Main(string[] args)
+        {
+            int lastFoodTime = 0;
+            int negativePoints = 0;
+
+            Position[] directions = CreatePositions().ToArray();
+
+            double sleepTime = 100;
+            Direction direction = Direction.Right;
+            Random randomNumbersGenerator = new Random();
+            Console.BufferHeight = Console.WindowHeight;
+            lastFoodTime = Environment.TickCount;
+            List<Position> obstacles = CreateObstacles().ToList();
+            Queue<Position> snakeElements = CreateSnake();
 
             Position food;
             do
@@ -54,6 +72,7 @@ namespace Snake
                     randomNumbersGenerator.Next(0, Console.WindowWidth));
             }
             while (snakeElements.Contains(food) || obstacles.Contains(food));
+
             Console.SetCursorPosition(food.col, food.row);
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("@");
@@ -163,7 +182,7 @@ namespace Snake
                     Console.Write(" ");
                 }
 
-                if (Environment.TickCount - lastFoodTime >= foodDissapearTime)
+                if (Environment.TickCount - lastFoodTime >= Constans.FoodDissapearTime)
                 {
                     negativePoints = negativePoints + 50;
                     Console.SetCursorPosition(food.col, food.row);
@@ -186,5 +205,8 @@ namespace Snake
                 Thread.Sleep((int)sleepTime);
             }
         }
+
+       
+
     }
 }
