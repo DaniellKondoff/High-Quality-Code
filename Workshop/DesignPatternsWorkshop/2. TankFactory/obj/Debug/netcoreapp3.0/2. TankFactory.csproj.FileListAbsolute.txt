@@ -1,0 +1,10 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\bin\Debug\netcoreapp3.0\2. TankFactory.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\bin\Debug\netcoreapp3.0\2. TankFactory.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\bin\Debug\netcoreapp3.0\2. TankFactory.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\bin\Debug\netcoreapp3.0\2. TankFactory.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\bin\Debug\netcoreapp3.0\2. TankFactory.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\bin\Debug\netcoreapp3.0\2. TankFactory.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\obj\Debug\netcoreapp3.0\2. TankFactory.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\obj\Debug\netcoreapp3.0\2. TankFactory.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\obj\Debug\netcoreapp3.0\2. TankFactory.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\2. TankFactory\obj\Debug\netcoreapp3.0\2. TankFactory.pdb

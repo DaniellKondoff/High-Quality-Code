@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\bin\Debug\netcoreapp3.0\7. CustomerService.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\bin\Debug\netcoreapp3.0\7. CustomerService.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\bin\Debug\netcoreapp3.0\7. CustomerService.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\bin\Debug\netcoreapp3.0\7. CustomerService.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\bin\Debug\netcoreapp3.0\7. CustomerService.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\bin\Debug\netcoreapp3.0\7. CustomerService.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\obj\Debug\netcoreapp3.0\7. CustomerService.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\obj\Debug\netcoreapp3.0\7. CustomerService.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\obj\Debug\netcoreapp3.0\7. CustomerService.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\obj\Debug\netcoreapp3.0\7. CustomerService.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\7. CustomerService\obj\Debug\netcoreapp3.0\7. CustomerService.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\bin\Debug\netcoreapp3.0\3. DOMBuilder.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\bin\Debug\netcoreapp3.0\3. DOMBuilder.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\bin\Debug\netcoreapp3.0\3. DOMBuilder.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\bin\Debug\netcoreapp3.0\3. DOMBuilder.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\bin\Debug\netcoreapp3.0\3. DOMBuilder.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\bin\Debug\netcoreapp3.0\3. DOMBuilder.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\obj\Debug\netcoreapp3.0\3. DOMBuilder.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\obj\Debug\netcoreapp3.0\3. DOMBuilder.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\obj\Debug\netcoreapp3.0\3. DOMBuilder.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\obj\Debug\netcoreapp3.0\3. DOMBuilder.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\3. DOMBuilder\obj\Debug\netcoreapp3.0\3. DOMBuilder.csprojAssemblyReference.cache

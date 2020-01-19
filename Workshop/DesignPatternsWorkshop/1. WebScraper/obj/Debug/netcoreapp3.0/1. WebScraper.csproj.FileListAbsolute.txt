@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\bin\Debug\netcoreapp3.0\1. WebScraper.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\bin\Debug\netcoreapp3.0\1. WebScraper.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\bin\Debug\netcoreapp3.0\1. WebScraper.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\bin\Debug\netcoreapp3.0\1. WebScraper.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\bin\Debug\netcoreapp3.0\1. WebScraper.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\bin\Debug\netcoreapp3.0\1. WebScraper.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\obj\Debug\netcoreapp3.0\1. WebScraper.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\obj\Debug\netcoreapp3.0\1. WebScraper.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\obj\Debug\netcoreapp3.0\1. WebScraper.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\obj\Debug\netcoreapp3.0\1. WebScraper.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\1. WebScraper\obj\Debug\netcoreapp3.0\1. WebScraper.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\bin\Debug\netcoreapp3.0\8. InputValidators.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\bin\Debug\netcoreapp3.0\8. InputValidators.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\bin\Debug\netcoreapp3.0\8. InputValidators.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\bin\Debug\netcoreapp3.0\8. InputValidators.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\bin\Debug\netcoreapp3.0\8. InputValidators.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\bin\Debug\netcoreapp3.0\8. InputValidators.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\obj\Debug\netcoreapp3.0\8. InputValidators.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\obj\Debug\netcoreapp3.0\8. InputValidators.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\obj\Debug\netcoreapp3.0\8. InputValidators.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\obj\Debug\netcoreapp3.0\8. InputValidators.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\8. InputValidators\obj\Debug\netcoreapp3.0\8. InputValidators.csprojAssemblyReference.cache

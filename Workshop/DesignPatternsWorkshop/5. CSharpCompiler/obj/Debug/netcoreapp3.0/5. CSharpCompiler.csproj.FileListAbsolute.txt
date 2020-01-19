@@ -1,0 +1,2 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\5. CSharpCompiler\obj\Debug\netcoreapp3.0\5. CSharpCompiler.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\5. CSharpCompiler\obj\Debug\netcoreapp3.0\5. CSharpCompiler.AssemblyInfo.cs

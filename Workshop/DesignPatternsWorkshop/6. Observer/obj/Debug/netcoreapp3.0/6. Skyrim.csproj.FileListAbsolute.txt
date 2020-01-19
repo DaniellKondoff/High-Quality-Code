@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\bin\Debug\netcoreapp3.0\6. Skyrim.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\bin\Debug\netcoreapp3.0\6. Skyrim.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\bin\Debug\netcoreapp3.0\6. Skyrim.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\bin\Debug\netcoreapp3.0\6. Skyrim.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\bin\Debug\netcoreapp3.0\6. Skyrim.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\bin\Debug\netcoreapp3.0\6. Skyrim.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\obj\Debug\netcoreapp3.0\6. Skyrim.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\obj\Debug\netcoreapp3.0\6. Skyrim.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\obj\Debug\netcoreapp3.0\6. Skyrim.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\obj\Debug\netcoreapp3.0\6. Skyrim.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\6. Observer\obj\Debug\netcoreapp3.0\6. Skyrim.csprojAssemblyReference.cache

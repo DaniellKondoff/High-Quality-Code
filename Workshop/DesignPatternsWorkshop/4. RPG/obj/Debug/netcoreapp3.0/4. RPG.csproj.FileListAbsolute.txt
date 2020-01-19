@@ -1,0 +1,11 @@
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\bin\Debug\netcoreapp3.0\4. RPG.exe
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\bin\Debug\netcoreapp3.0\4. RPG.deps.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\bin\Debug\netcoreapp3.0\4. RPG.runtimeconfig.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\bin\Debug\netcoreapp3.0\4. RPG.runtimeconfig.dev.json
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\bin\Debug\netcoreapp3.0\4. RPG.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\bin\Debug\netcoreapp3.0\4. RPG.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\obj\Debug\netcoreapp3.0\4. RPG.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\obj\Debug\netcoreapp3.0\4. RPG.AssemblyInfo.cs
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\obj\Debug\netcoreapp3.0\4. RPG.dll
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\obj\Debug\netcoreapp3.0\4. RPG.pdb
+D:\Program Files\GitHub\High Quality Code\Workshop\DesignPatternsWorkshop\4. RPG\obj\Debug\netcoreapp3.0\4. RPG.csprojAssemblyReference.cache
