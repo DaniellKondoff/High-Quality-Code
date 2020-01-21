@@ -1,43 +1,29 @@
 ﻿namespace AirCombat.Core
 {
     using System.Collections.Generic;
-
+    using AirCombat.Commands.Contracts;
+    using AirCombat.Commands.Factories;
+    using AirCombat.Commands.Factories.Contracts;
     using Contracts;
 
     public class CommandInterpreter : ICommandInterpreter
     {
-        private readonly IManager aircraftManager;
+        private readonly ICommandFactory commandFactory;
 
-        public CommandInterpreter(IManager tankManager)
+        public CommandInterpreter()
         {
-            this.aircraftManager = tankManager;
+            this.commandFactory = new CommandFactory();
         }
 
         public string ProcessInput(IList<string> inputParameters)
         {
-            string command = inputParameters[0];
+            string commandType = inputParameters[0];
             inputParameters.RemoveAt(0);
 
             string result = string.Empty;
 
-            switch (command)
-            {
-                case "AirCraft":
-                    result = this.aircraftManager.AddAircraft(inputParameters);
-                    break;
-                case "Part":
-                    result = this.aircraftManager.AddPart(inputParameters);
-                    break;
-                case "Inspect":
-                    result = this.aircraftManager.Inspect(inputParameters);
-                    break;
-                case "Battle":
-                    result = this.aircraftManager.Battle(inputParameters);
-                    break;
-                case "Terminate":
-                    result = this.aircraftManager.Terminate();
-                    break;
-            }
+            ICommand command = this.commandFactory.CreateCommand(commandType, inputParameters);
+            result = command.Execute();
 
             return result;
         }

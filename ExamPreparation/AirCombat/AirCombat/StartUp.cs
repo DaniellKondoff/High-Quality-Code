@@ -12,10 +12,7 @@
             IReader reader = new ConsoleReader();
             IWriter writer = new ConsoleWriter();
 
-            IBattleOperator battleOperator = new BattleOperator();
-            IManager manager = new Manager(battleOperator);
-
-            ICommandInterpreter commandInterpreter = new CommandInterpreter(manager);
+            ICommandInterpreter commandInterpreter = new CommandInterpreter();
 
             IEngine engine = new Engine(
                 reader,
