@@ -45,15 +45,10 @@
 
             IAirCraft aircraft = aircraftFactory.CreateAirCraft(aircraftType, model, weight, price, attack, defense, hitPoints);
 
-            if (aircraft != null)
-            {
+            if (aircraft != null && !aircrafts.ContainsKey(aircraft.Model))
                 this.aircrafts.Add(aircraft.Model, aircraft);
-            }
 
-            return string.Format(
-                GlobalConstants.AircraftSuccessMessage,
-                aircraftType,
-                aircraft.Model);
+            return string.Format(GlobalConstants.AircraftSuccessMessage, aircraftType, aircraft.Model);
         }
 
         public string AddPart(IList<string> arguments)
@@ -65,7 +60,10 @@
             decimal price = decimal.Parse(arguments[4]);
             int additionalParameter = int.Parse(arguments[5]);
 
-            IPart part = partFactory.CreatePart(partType, model, weight, price, additionalParameter); ;
+            IPart part = partFactory.CreatePart(partType, model, weight, price, additionalParameter);
+
+            if (!this.parts.ContainsKey(model))
+                this.parts.Add(model, part);
 
             switch (partType)
             {
@@ -134,7 +132,7 @@
                 winnerAircraftModel);
         }
 
-        public string Terminate(IList<string> arguments)
+        public string Terminate()
         {
             StringBuilder finalResult = new StringBuilder();
 

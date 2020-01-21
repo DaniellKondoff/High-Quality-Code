@@ -12,6 +12,6 @@ namespace AirCombat.Core.Contracts
 
         string Battle(IList<string> arguments);
 
-        string Terminate(IList<string> arguments);
+        string Terminate();
     }
 }

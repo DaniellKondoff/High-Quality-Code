@@ -20,7 +20,6 @@
             this.reader = reader;
             this.writer = writer;
             this.commandInterpreter = commandInterpreter;
-
             this.isRunning = false;
         }
 
@@ -28,18 +27,18 @@
         {
             this.isRunning = true;
 
+            List<string> commandOutput = new List<string>();
             while (isRunning)
             {
                 List<string> input = reader.ReadLine().Split(' ').ToList();
 
-                if (input.FirstOrDefault() == "Terminate")
+                if (input[0].Trim() == "Terminate")
                     isRunning = false;
 
-                var result = commandInterpreter.ProcessInput(input);
-                writer.WriteLine(result);
-
-                
+                commandOutput.Add(commandInterpreter.ProcessInput(input));
             }
+
+            commandOutput.ForEach(s => writer.WriteLine(s));
         }
     }
 }
